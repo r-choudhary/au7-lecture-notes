@@ -1,0 +1,1 @@
+old lectures here -- https://docs.google.com/document/d/1IHLgoCI0q4h99Sz4W28pwGuyLsSP4yHeJU5HqzXW808/edit?usp=sharing

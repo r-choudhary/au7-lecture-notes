@@ -6,6 +6,8 @@ repl by Priyesh -- https://repl.it/repls/ElasticSilverHypertalk (please copy for
 
 ## while loop
 
+![Image result for while loop"](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkIO9wUL9Je3LvwZQMSVh7xRZy-RKki8vplBneLga11qi-6Gg_)
+
 * used for indefinite iternations, when you do not know the exit condition
 
 * regular increment, in each run of loop 
@@ -88,6 +90,8 @@ repl by Priyesh -- https://repl.it/repls/ElasticSilverHypertalk (please copy for
 
 
 ## functions (*important)
+
+![Python Functions](https://cdn.askpython.com/wp-content/uploads/2019/06/python-functions.png)
 
 * function is a block of code which only runs whenever it is called
 
@@ -178,8 +182,6 @@ repl by Priyesh -- https://repl.it/repls/ElasticSilverHypertalk (please copy for
   message() ## will use default arugment rahul
   ```
 
-  
-
   ---
 
-  end of lecture 9
+  *end of lecture 9*
