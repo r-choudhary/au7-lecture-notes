@@ -1,4 +1,4 @@
-# week 02 / lecture 9
+# week 02 / lecture 9a
 
 repl by Priyesh -- https://repl.it/repls/ElasticSilverHypertalk (please copy for reference later)
 
