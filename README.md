@@ -5,10 +5,10 @@
 
 ## table of contents
 
--  [week01](##week01) ✓
-- [week02](##week02) ✓
-- [week03](##week03) ✓
-- [week04](##week04) 👈🏽 
+- week01 ✓
+- week02 ✓
+- week03 ✓
+- week04 👈🏽 
 
   
   
@@ -178,9 +178,9 @@
 
 - [x] [day5](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week03/day5.ipynb)
 	- searching algorithms
-		- binary search
+	- binary search
 	- sorting algorithms
-		- counting sort
+	- counting sort
 
  *end of week03* 👏🏽👏🏽
 
