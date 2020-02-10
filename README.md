@@ -186,4 +186,28 @@
 
 ***
 
+## week01
+
+  
+
+### agenda day 1 to 6:
+- learning how to learn session
+- github
+- shell
+	
+### lecture notes:
+
+-  [ ]  [day1](https://www.evernote.com/l/Abo2iOQ1ArSvlkbB3oYs4iK2AE7J11538UU)
+	- selection sort
+	- counting sort
+	
+- [ ] [day2](#)
+
+- [ ] [day3](#)
+
+- [ ] [day4](#)
+
+- [ ] [day5](#)
+
+***
 
