@@ -157,7 +157,7 @@ same as [week 03](##week02)
 	
 ### Lecture notes:
 
--  [x]  [day1](https://www.evernote.com/l/Abo2iOQ1ArSvlkbB3oYs4iK2AE7J11538UU)
+-  [x]  [day1](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week04/day01.ipynb)
 	- selection sort
 	- counting sort
 	- bubble sort
