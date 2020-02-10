@@ -6,8 +6,8 @@
 ## 🎯 Plan
 > *refer - [Session with Arkesh, CTO @attainu](https://www.evernote.com/l/AboxkzVPUx0RfxO4tk4_go1VHgzmMv7uW78)
 
-- [x] 1 to 5: learning how to learn, git, shell
-- [ ] 6 to 37: python, data structures, algorithms, computer fundamentals
+- [x] 1 to 5: learning how to learn, git, shell ✅
+- [ ] 6 to 37: python, data structures, algorithms, computer fundamentals 👈🏽 in progress
 - [ ] 38 to 79: backend - js, node.js, express, no sql, sql, mongo db
 - [ ] 80 to 95: backend project
 - [ ] 96 to 134: front end: html, css, ui/ux, react, redux
