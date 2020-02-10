@@ -4,7 +4,7 @@
 # AttainU Robin (AU7)
 
 ## 🎯 Plan
-> ⭐️ refer - [Session with Arkesh](https://www.evernote.com/l/AboxkzVPUx0RfxO4tk4_go1VHgzmMv7uW78)
+> *refer - [Session with Arkesh, CTO @attainu](https://www.evernote.com/l/AboxkzVPUx0RfxO4tk4_go1VHgzmMv7uW78)
 
 - [x] 1 to 5: learning how to learn, git, shell
 - [ ] 6 to 37: python, data structures, algorithms, computer fundamentals
@@ -12,7 +12,7 @@
 - [ ] 80 to 95: backend project
 - [ ] 96 to 134: front end: html, css, ui/ux, react, redux
 - [ ] 135 to 155: capstone project
-- [ ] placement related prep
+- [ ] placement related prep 
 
 ## 🗣 Lectures
 
@@ -22,4 +22,6 @@
 
  - [x] week03 - [day1](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week03/day1.md) - [day2](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week03/day2.md) - [day3](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week03/day3.ipynb) - [day4](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week03/day4.ipynb) - [day5](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week03/day4.ipynb)
 
-- [ ] week04 - [day1](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week04/day01.ipynb) 👈🏽
+- [ ] week04 - [day1](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week04/day1.ipynb) 👈🏽
+
+***
