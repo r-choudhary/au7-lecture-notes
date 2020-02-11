@@ -20,7 +20,7 @@
 
 - [ ] placement related prep 
 
-## 🗣 Lectures
+## 🗣 Lectures Notes
 
 ### Week 01
 
@@ -37,5 +37,9 @@
 ### Week 04 👈🏽
 
 - [day1](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week04/day1.ipynb) > [day2](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week04/day2.ipynb) 
+
+
+## 👨🏻‍💻 Resources
+- For CCs, assignments, lecture slides, lecture recordings, refer to Priyesh's repo -- [here](https://github.com/never2average/AttainU-CCs).
 
 ***
