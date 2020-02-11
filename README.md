@@ -1,8 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/rahul-choudhary-au7/au7-lecture-notes/master/week04/img/c102e5_148b6c2dcb4a452597a8039cee2ef95d_mv2.png" alt="drawing" width="80"/>
 
-# AttainU Robin (AU7)
-
 # 🗣 Lectures Notes
 
 ## Week 01
