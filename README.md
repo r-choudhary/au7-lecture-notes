@@ -16,7 +16,7 @@
 
 ### Week 04 👈🏽
 
-- [day1](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week04/day1.ipynb) > [day2](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week04/day2.ipynb) > [day3](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week04/day3.ipynb)
+- [day1](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week04/day1.ipynb) > [day2](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week04/day2.ipynb) > [day3](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week04/day3.ipynb) > [day4-5]((https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week04/day4-5.ipynb)
 
 ***
 
@@ -41,6 +41,6 @@
 ***
 
 ## 👨🏻‍💻 Resources
-- For CCs, assignments, lecture slides, lecture recordings, refer to Priyesh's repo -- [here](https://github.com/never2average/AttainU-CCs).
+- For CCs, assignments, lecture slides, lecture recordings, refer to Priyesh's repo -- [here](https://github.com/never2average/AttainU-CCs)
 
 ***
