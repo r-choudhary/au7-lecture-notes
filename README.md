@@ -20,24 +20,24 @@
 
 ### Week 05 👈🏽
 
-- [day1](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day1.ipynb) > [day2](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day2.ipynb) > [day3](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day3.ipynb)
+- [day1](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day1.ipynb) > [day2](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day2.ipynb) > [day3](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day3.ipynb) > [day5] (https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day4.ipynb)
 
 ***
 
 ## 🎯 Plan
 > *refer - [Session with Arkesh, CTO @attainu](https://www.evernote.com/l/AboxkzVPUx0RfxO4tk4_go1VHgzmMv7uW78)
 
-- [x] 1 to 5: learning how to learn, git, shell 
+- [x] lectures 1 to 5: learning how to learn, git, shell # done
 
-- [ ] 6 to 37: python, data structures, algorithms, computer fundamentals 👈🏽 # due on feb 28 
+- [ ] lectures 6 to 37: python, data structures, algorithms, computer fundamentals 👈🏽 # due on feb 28 
 
-- [ ] 38 to 79: backend - js, node.js, express, no sql, sql, mongo db
+- [ ] lectures 38 to 79: backend - js, node.js, express, no sql, sql, mongo db 
 
-- [ ] 80 to 95: backend project
+- [ ] lectures 80 to 95: backend project
 
-- [ ] 96 to 134: front end: html, css, ui/ux, react, redux
+- [ ] lectures 96 to 134: front end: html, css, ui/ux, react, redux
 
-- [ ] 135 to 155: capstone project
+- [ ] lectures 135 to 155: capstone project
 
 - [ ] placement related prep 
  
