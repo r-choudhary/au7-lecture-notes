@@ -2,11 +2,11 @@
 
 ## 🗣 Lectures Notes
 
-### Week 01
+### Week 01 (lecture 1 - 5)
 
 - [day1](https://www.evernote.com/l/Abo2iOQ1ArSvlkbB3oYs4iK2AE7J11538UU) > [day2](https://www.evernote.com/l/AboQFHrj3c5C3OC771S3kTmY1fxN4MStlI0) > [day3](https://www.evernote.com/l/Abp_67qfL9dOg6K--hJ40DMZeLhLhR8BTW0) > [day4](https://www.evernote.com/l/Abp-cXwfUiFgf1dmyHGPL8HOGah6OWGZZSA) > [day5](https://www.evernote.com/l/AbqDvkH1-Fj7L8G-ToU9S7LIX-fXLuJnqK8)
 
-### Week 02
+### Week 02 (lecture 6 - 11)
 
 - [day1](https://www.evernote.com/l/AbqbqYY8gFBFWljgrKMNvy1FL7QzGDXWdZA) > [day2](https://www.evernote.com/l/AbpbQwU2uGFFoZxPIa9pgfYeJFIJUeexN0o) > [day3](https://drive.google.com/open?id=1gRtettH89y6mepohtzvfbIsjWdc8rX-p) > [day4](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week02/lecture%209.md) > [day5](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week02/lecture10.md)
 
@@ -20,7 +20,7 @@
 
 ### Week 05 👈🏽
 
-- [day1](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day1.ipynb) > [day2](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day2.ipynb) > [day3](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day3.ipynb) > [day5](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day4.ipynb)
+- [day1](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day1.ipynb) > [day2](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day2.ipynb) > [day3](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day3.ipynb) > [day4](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day4.ipynb) > [day5](https://github.com/rahul-choudhary-au7/au7-lecture-notes/blob/master/week05/day5.ipynb)
 
 ***
 
